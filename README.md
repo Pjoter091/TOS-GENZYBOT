@@ -1,6 +1,7 @@
 # TOS-GENZYBOT
 
 1. It is forbidden to spam with commands.
+|Does not apply to commands from the Information and 4fun categories
 
 2. Using the bot for malicious purposes is strictly prohibited.
 
