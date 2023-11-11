@@ -1,5 +1,37 @@
 # TOS-GENZYBOT
 
+
+
+
+
+
+
+# POLISH COMMUNITY
+
+1. Zabronione jest spamowanie komendami.
+|Nie dotyczy poleceń z kategorii Informacje i 4fun
+
+2. Używanie bota do złośliwych celów jest surowo zabronione.
+
+3. Jeśli polecenie nie działa, nie spamuj go, bo to nic nie da.
+
+4. Aby bot dobrze działał, powinien być umieszczony jak najwyżej w rolach.
+
+5. Jeśli masz problem z botem, przejdź do serwera Support.
+
+6. Jeśli masz bota na serwerze i go nie używasz, wyrzuć go z serwera ponieważ może zakłócić jego pracę
+
+7. Zakaz działania na szkodę bota
+
+8. Zabronione jest "granie" z botem
+
+9. Jeśli bot ma aktywny status "aktywny, oznacza to, że jest" i nie działa
+
+10. Jeśli bot ma status online, to znaczy, że działa, gdy ma status, wrócę wkrótce, oznacza to, że jest aktualizowany i gdy jest offline nie działa
+
+
+# ENGLISH COMMUNITY
+
 1. It is forbidden to spam with commands.
 |Does not apply to commands from the Information and 4fun categories
 
